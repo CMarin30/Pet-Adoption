@@ -15,4 +15,15 @@
   flex-wrap: nowrap;
 }
 
+.btn{
+		width:200px;
+		height:30px;
+		margin-top:20px;
+		background:blue;
+		color:white;
+		border-radius:5px;
+		text-align: center;
+		padding-top:7px;
+	}
+
 /*# sourceMappingURL=main.css.map */
